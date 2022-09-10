@@ -1,0 +1,1 @@
+[('average', 0.08), ('rise', 0.08), ('surface', 0.08), ('century', 0.05), ('earths', 0.05)]

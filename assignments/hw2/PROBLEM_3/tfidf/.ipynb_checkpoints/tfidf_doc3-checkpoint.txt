@@ -1,0 +1,1 @@
+[('human', 0.09), ('greenhouse', 0.06), ('absorbed', 0.04), ('allowed', 0.04), ('already', 0.04)]
